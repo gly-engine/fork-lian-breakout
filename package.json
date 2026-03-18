@@ -1,5 +1,4 @@
 {
-  "types": "src/index.d.ts",
   "scripts": {
     "build": "gly-cli build-html src/game.lua"
   },
